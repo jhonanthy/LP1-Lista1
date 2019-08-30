@@ -1,0 +1,8 @@
+Questão 1)
+    a)Classes é o que vai definir o que o objeto vai possuir, isto é, dita todos os atributos e metódos que o objeto irá possuir.
+      Objeto é o que é criado a partir da classe (molde), vai possuir todos os atributos e metódos declarados previamente na cla-
+      sse, vai ser um objeto de determinada classe.
+    b)Construtor é um metodo que inicia o objeto com valores padrões para que não possua nenhum lixo de memória, por exemplo, ini-
+      ciar algum valor com 0.
+    c)Encapsulamento possui um grande benefício que é proteger os seus dados, de forma que um usuário não tenha acesso a informa-
+      ções importantes como notas escolares, ou extratos financeiros.
